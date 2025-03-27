@@ -1,0 +1,5 @@
+{
+    "godotTools.editorPath.godot4": "/Applications/Godot.app",
+    "editor.insertSpaces": false, // true이면 스페이스 사용, false이면 탭 사용
+    "editor.tabSize": 4           // 탭의 시각적 너비 (Godot 기본값은 4)
+}
